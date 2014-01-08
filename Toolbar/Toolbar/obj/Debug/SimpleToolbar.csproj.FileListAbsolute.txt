@@ -1,0 +1,6 @@
+D:\Working\Telerik Academy Projects\SimpleToolbar\SimpleToolbar\bin\SimpleToolbar.dll.config
+D:\Working\Telerik Academy Projects\SimpleToolbar\SimpleToolbar\bin\SimpleToolbar.dll
+D:\Working\Telerik Academy Projects\SimpleToolbar\SimpleToolbar\bin\SimpleToolbar.pdb
+D:\Working\Telerik Academy Projects\SimpleToolbar\SimpleToolbar\obj\Debug\SimpleToolbar.csprojResolveAssemblyReference.cache
+D:\Working\Telerik Academy Projects\SimpleToolbar\SimpleToolbar\obj\Debug\SimpleToolbar.dll
+D:\Working\Telerik Academy Projects\SimpleToolbar\SimpleToolbar\obj\Debug\SimpleToolbar.pdb
